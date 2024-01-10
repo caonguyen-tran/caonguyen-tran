@@ -14,5 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caonguyen-tran&show_icons=true&locale=en&layout=compact" alt="caonguyen-tran" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caonguyen-tran&show_icons=true&locale=en" alt="caonguyen-tran" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caonguyen-tran&" alt="caonguyen-tran" /></p>
