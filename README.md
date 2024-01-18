@@ -5,8 +5,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nguy%c3%aan-tr%e1%ba%a7n-1481b0247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nguy%c3%aan-tr%e1%ba%a7n-1481b0247/" height="30" width="40" /></a>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caonguyen-tran&show_icons=true&locale=en&layout=compact" alt="caonguyen-tran" /></p>
 
